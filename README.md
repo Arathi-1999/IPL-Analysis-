@@ -17,3 +17,6 @@ As a aspirant data analyst, I have analyzed three years of IPL data to create a 
 **▫️**Provide insights based on performance of players
 
 **▫️**Provide predictions for 2024 based on analysis and current performance of teams and players.
+
+## Live Dashboard:
+**https://app.powerbi.com/view?r=eyJrIjoiZDRkYWMzMzgtMGUwNC00OTc0LTkzMDItZTUyOWVhY2MyYThlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
